@@ -7,3 +7,6 @@ class Domanda:
 
     def_init_(self ):
         pass
+
+def _str_(self):
+    pass
